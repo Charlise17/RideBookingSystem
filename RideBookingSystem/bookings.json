@@ -1,0 +1,1 @@
+[{"booking_id": 3, "user": "Chloie", "vehicle": {"vehicle_type": "Bike", "cost_per_mile": 5, "capacity": 1}, "start_location": "quezon city", "end_location": "manila", "distance": 1000.0, "total_cost": 5000.0}]
